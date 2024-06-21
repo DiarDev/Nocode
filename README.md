@@ -1,5 +1,5 @@
 # Nocode
-create website ez
+create code ez
 ## How to use?
 Run the file Nocode.py in linux, then it will work on its own
 ```
@@ -17,4 +17,4 @@ then the result it doesn't come out is:
 ```
 
 ```
-That's great, you made it no no website
+That's great, you made it no no code
